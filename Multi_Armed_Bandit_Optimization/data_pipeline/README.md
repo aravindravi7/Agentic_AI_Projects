@@ -1,4 +1,4 @@
-# Madison Agent — Data Pipeline (Assignment 3)
+# Madison Agent — Data Pipeline
 
 This repository contains the **data collection pipeline** (built in **n8n**) for the **Madison Agent: Model Behavior Evaluation System**.
 
